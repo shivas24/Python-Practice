@@ -1,1 +1,1 @@
-Python Complete guide with pratice suitable examples
+Complete Python Guide with examples
